@@ -207,6 +207,7 @@ Input.propTypes = {
         'tel',
         'url',
         'hidden',
+        'date',
     ]),
 
     /**
